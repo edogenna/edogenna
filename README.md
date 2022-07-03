@@ -5,10 +5,10 @@
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogenna&show_icons=true&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogenna&show_icons=true&theme=aura&count_private=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogenna&show_icons=true&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edogenna&show_icons=true&theme=aura&layout=compact&langs_count=8" />
 </a>
 
 ## Social
