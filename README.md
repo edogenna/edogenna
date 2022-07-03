@@ -5,11 +5,12 @@
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogenna&show_icons=true&theme=aura&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogenna&show_icons=true&count_private=true&layout=compact &title_color=a277ff&icon_color=ffca85&text_color=61ffca&bg_color=15141b&border_color=15141b" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edogenna&show_icons=true&theme=aura&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edogenna&show_icons=true&layout=compact&langs_count=8      &title_color=a277ff&icon_color=ffca85&text_color=61ffca&bg_color=15141b&border_color=15141b" />
 </a>
+
 
 ## Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/edogenna)
