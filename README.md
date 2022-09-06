@@ -4,12 +4,10 @@
 - 🌱 I’m a student of Computer Engineering @ PoliMi
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogenna&show_icons=true&count_private=true&layout=compact &title_color=a277ff&icon_color=ffca85&text_color=61ffca&bg_color=15141b&border_color=15141b" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edogenna&show_icons=true&layout=compact&langs_count=8      &title_color=a277ff&icon_color=ffca85&text_color=61ffca&bg_color=15141b&border_color=15141b" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=edogenna&show_icons=true&layout=compact&langs_count=8&title_color=a277ff&icon_color=ffca85&text_color=61ffca&bg_color=15141b&border_color=15141b" alt="edogenna's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogenna&show_icons=true&layout=compact&langs_count=8&title_color=a277ff&icon_color=ffca85&text_color=61ffca&bg_color=15141b&border_color=15141b" />
+
 
 
 ## Social
@@ -17,8 +15,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/edogenna2)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardogennaretti/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/edogenna)
-
-
 
 
 
